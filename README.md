@@ -1,12 +1,16 @@
 # sw-must-read
-Here are nice articles to read
+Here are some nice materials to read and trace.
 
 ## Linux
 - [Linux Kernel Internal](http://wiki.csie.ncku.edu.tw/linux/schedule)
-- [Linux Kernel Module](https://sysprog21.github.io/lkmpg/)
+- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 
 ## Rust
 - [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 
 ## Security
 - [Illustrated X.509 Certificate](https://darutk.medium.com/illustrated-x-509-certificate-84aece2c5c2e)
+
+## Database
+- [Postgres Internals](https://www.postgresql.org/docs/current/internals.html)
+- [VanillaDB Source Code](https://github.com/vanilladb)
