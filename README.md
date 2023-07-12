@@ -18,3 +18,4 @@ Here are some nice materials to read and trace.
 
 ## Deisgn Pattern
 - [Head First Design Patterns](https://www.google.com/search?q=head+first+design+patterns%252C+2nd+edition)
+  - The principle extracted from the book: "Take the parts that vary and encapsulate them, so that later you can alter or extend the parts that vary without affecting those that don't"
