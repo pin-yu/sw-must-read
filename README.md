@@ -15,3 +15,6 @@ Here are some nice materials to read and trace.
 ## Database
 - [Postgres Internals](https://www.postgresql.org/docs/current/internals.html)
 - [VanillaDB Source Code](https://github.com/vanilladb)
+
+## Deisgn Pattern
+- [Head First Design Patterns](https://www.google.com/search?q=head+first+design+patterns%252C+2nd+edition)
