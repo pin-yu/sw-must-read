@@ -4,6 +4,7 @@ Here are some nice materials to read and trace.
 ## Linux
 - [Linux Kernel Internal](http://wiki.csie.ncku.edu.tw/linux/schedule)
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
+- [Intrusive linked lists](https://www.data-structures-in-practice.com/intrusive-linked-lists/)
 
 ## Rust
 - [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
