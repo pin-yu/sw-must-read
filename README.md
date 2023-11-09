@@ -6,6 +6,9 @@ Here are some nice materials to read and trace.
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 - [Intrusive linked lists](https://www.data-structures-in-practice.com/intrusive-linked-lists/)
 
+## Compiler
+- [Engineering a Compiler](http://www.r-5.org/files/books/computers/compilers/writing/Keith_Cooper_Linda_Torczon-Engineering_a_Compiler-EN.pdf)
+
 ## Rust
 - [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 
