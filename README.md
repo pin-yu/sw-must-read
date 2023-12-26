@@ -9,6 +9,9 @@ Here are some nice materials to read and trace.
 ## Compiler
 - [Engineering a Compiler](http://www.r-5.org/files/books/computers/compilers/writing/Keith_Cooper_Linda_Torczon-Engineering_a_Compiler-EN.pdf)
 
+## Go
+- [Go101](https://go101.org/)
+
 ## Rust
 - [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 
