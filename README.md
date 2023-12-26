@@ -8,6 +8,8 @@ Here are some nice materials to read and trace.
 
 ## Compiler
 - [Engineering a Compiler](http://www.r-5.org/files/books/computers/compilers/writing/Keith_Cooper_Linda_Torczon-Engineering_a_Compiler-EN.pdf)
+- [Writing an Interpreter In Go](https://interpreterbook.com/)
+- [Writing a Compiler In Go](https://compilerbook.com/)
 
 ## Go
 - [Go101](https://go101.org/)
