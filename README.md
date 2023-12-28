@@ -1,5 +1,5 @@
 # sw-must-read
-Here are some nice materials to read and trace.
+Here are nice materials to read.
 
 ## Linux
 - [Linux Kernel Internal](http://wiki.csie.ncku.edu.tw/linux/schedule)
