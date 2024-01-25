@@ -1,6 +1,8 @@
 # sw-must-read
 Here are nice materials to read.
 
+Always ask the right questions, make the proper assumptions, and gather all the information needed to build a system.
+
 ## Linux
 - [Linux Kernel Internal](http://wiki.csie.ncku.edu.tw/linux/schedule)
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
