@@ -4,6 +4,8 @@ Here are nice materials to read.
 Always ask the right questions, make the proper assumptions, and gather all the information needed to build a system.
 
 ## Linux
+- [Linux Kernel Development](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/Linux/Linux%20Kernel%20Development,%203rd%20Edition.pdf)
+- [Linux Device Driver](https://lwn.net/Kernel/LDD3/)
 - [Linux Kernel Internal](http://wiki.csie.ncku.edu.tw/linux/schedule)
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 - [Intrusive linked lists](https://www.data-structures-in-practice.com/intrusive-linked-lists/)
