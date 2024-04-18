@@ -22,6 +22,7 @@ Always ask the right questions, make the proper assumptions, and gather all the 
 - [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 
 ## Network
+- [CompTIA Network+ Certification All-in-One Exam Guide, Eighth Edition (Exam N10-008) (CompTIA Network + All-In-One Exam Guide) 8th Edition](https://www.amazon.com/CompTIA-Network-Certification-N10-008-Comptia/dp/1264269056)
 - [Cloudflare learning center](https://www.cloudflare.com/learning/)
 
 ## Security
@@ -35,3 +36,10 @@ Always ask the right questions, make the proper assumptions, and gather all the 
 ## Deisgn Pattern
 - [Head First Design Patterns](https://www.google.com/search?q=head+first+design+patterns%252C+2nd+edition)
   - The principle extracted from the book: "Take the parts that vary and encapsulate them, so that later you can alter or extend the parts that vary without affecting those that don't"
+ 
+## System Design
+- [System Design Interview An Insider’s Guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+ 
+## Misc
+- [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+- [Cracking the Coding Interview - 4th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
