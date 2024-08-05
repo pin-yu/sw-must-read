@@ -21,6 +21,9 @@ Always ask the right questions, make the proper assumptions, and gather all the 
 ## Rust
 - [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 
+## C++
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+
 ## Network
 - [CompTIA Network+ Certification All-in-One Exam Guide, Eighth Edition (Exam N10-008) (CompTIA Network + All-In-One Exam Guide) 8th Edition](https://www.amazon.com/CompTIA-Network-Certification-N10-008-Comptia/dp/1264269056)
 - [Cloudflare learning center](https://www.cloudflare.com/learning/)
